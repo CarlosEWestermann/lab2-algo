@@ -1,0 +1,16 @@
+--- STDOUT ---
+Running Edmonds-Karp algorithm on graphs/dinic_bad_6k.max
+Graph has 6000 vertices and 11997 edges
+Maximum flow: 6001
+Time taken: 0.217411 seconds
+Total iterations: 5999
+Total vertices visited: 18008997
+Total edges visited: 18002998
+Average vertices per iteration: 3002
+Average edges per iteration: 3001
+Average path length: 3000
+
+--- STDERR ---
+
+--- RETURN CODE: 0 ---
+--- EXECUTION TIME: 0.2389s ---

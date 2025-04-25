@@ -1,0 +1,16 @@
+--- STDOUT ---
+Running Edmonds-Karp algorithm on graphs/mesh_130x130-500.max
+Graph has 16902 vertices and 50570 edges
+Maximum flow: 59291
+Time taken: 3.14392 seconds
+Total iterations: 20214
+Total vertices visited: 338109227
+Total edges visited: 338089013
+Average vertices per iteration: 16726.5
+Average edges per iteration: 16725.5
+Average path length: 145.027
+
+--- STDERR ---
+
+--- RETURN CODE: 0 ---
+--- EXECUTION TIME: 3.1680s ---

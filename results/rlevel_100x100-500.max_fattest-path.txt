@@ -1,0 +1,19 @@
+--- STDOUT ---
+Running Fattest Path algorithm (k-heap, k=2) on graphs/rlevel_100x100-500.max
+Graph has 10002 vertices and 29900 edges
+Maximum flow: 36899
+Time taken: 0.356559 seconds
+Total iterations: 532
+Total vertices visited: 5387265
+Total edges visited: 25029263
+Average vertices per iteration: 10126.4
+Average edges per iteration: 47047.5
+Average path length: 256.346
+Média r_insert: 0.148038
+Média r_deletemin: 0.472619
+Média r_update: 0
+
+--- STDERR ---
+
+--- RETURN CODE: 0 ---
+--- EXECUTION TIME: 0.3662s ---

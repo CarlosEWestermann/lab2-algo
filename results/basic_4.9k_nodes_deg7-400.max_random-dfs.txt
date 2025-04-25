@@ -1,0 +1,16 @@
+--- STDOUT ---
+Running Randomized Ford-Fulkerson algorithm on graphs/basic_4.9k_nodes_deg7-400.max
+Graph has 4902 vertices and 32700 edges
+Maximum flow: 85546
+Time taken: 23.7341 seconds
+Total iterations: 83551
+Total vertices visited: 99684839
+Total edges visited: 99601288
+Average vertices per iteration: 1193.1
+Average edges per iteration: 1192.1
+Average path length: 1168.55
+
+--- STDERR ---
+
+--- RETURN CODE: 0 ---
+--- EXECUTION TIME: 23.7438s ---

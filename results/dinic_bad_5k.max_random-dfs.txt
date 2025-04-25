@@ -1,0 +1,16 @@
+--- STDOUT ---
+Running Randomized Ford-Fulkerson algorithm on graphs/dinic_bad_5k.max
+Graph has 5000 vertices and 9997 edges
+Maximum flow: 5001
+Time taken: 1.00871 seconds
+Total iterations: 4999
+Total vertices visited: 12502499
+Total edges visited: 12497500
+Average vertices per iteration: 2501
+Average edges per iteration: 2500
+Average path length: 2500
+
+--- STDERR ---
+
+--- RETURN CODE: 0 ---
+--- EXECUTION TIME: 1.0161s ---

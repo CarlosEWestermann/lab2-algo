@@ -1,0 +1,19 @@
+--- STDOUT ---
+Running Fattest Path algorithm (k-heap, k=2) on graphs/dinic_bad_7k.max
+Graph has 7000 vertices and 13997 edges
+Maximum flow: 7001
+Time taken: 0.274981 seconds
+Total iterations: 6999
+Total vertices visited: 24510497
+Total edges visited: 73482500
+Average vertices per iteration: 3502
+Average edges per iteration: 10499
+Average path length: 3500
+Média r_insert: 1.00113
+Média r_deletemin: 1
+Média r_update: 0
+
+--- STDERR ---
+
+--- RETURN CODE: 0 ---
+--- EXECUTION TIME: 0.2807s ---

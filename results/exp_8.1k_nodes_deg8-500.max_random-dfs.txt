@@ -1,0 +1,16 @@
+--- STDOUT ---
+Running Randomized Ford-Fulkerson algorithm on graphs/exp_8.1k_nodes_deg8-500.max
+Graph has 8102 vertices and 62158 edges
+Maximum flow: 360000
+Time taken: 98.0285 seconds
+Total iterations: 247753
+Total vertices visited: 371232664
+Total edges visited: 370984911
+Average vertices per iteration: 1498.4
+Average edges per iteration: 1497.4
+Average path length: 1479.81
+
+--- STDERR ---
+
+--- RETURN CODE: 0 ---
+--- EXECUTION TIME: 98.0448s ---
